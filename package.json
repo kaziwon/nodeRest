@@ -1,0 +1,22 @@
+{
+  "name": "contatos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaziwon/nodeRest.git"
+  },
+  "author": "João",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaziwon/nodeRest/issues"
+  },
+  "homepage": "https://github.com/kaziwon/nodeRest#readme",
+  "dependencies": {
+    "restify": "^7.7.0"
+  }
+}
